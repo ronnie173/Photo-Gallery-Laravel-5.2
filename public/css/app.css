@@ -1,0 +1,10 @@
+.main{
+    padding: 20px;
+}
+
+.main-image{
+    display: block;
+    width: 60%;
+    margin:auto;
+    padding: 30px;
+}
